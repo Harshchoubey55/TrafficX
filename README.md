@@ -54,5 +54,3 @@ pip install numpy
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-This README provides a structured overview of your project, including installation instructions, module descriptions, usage guidelines, contributors, and licensing information. Adjust the contributors and license sections as per your project's specifics.

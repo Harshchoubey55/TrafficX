@@ -48,7 +48,7 @@ pip install numpy
 
 ## Collaborators:
 - Sagnik Gangopadhyay: HawkCodeZ (github), amayamix24@gmail.com (mail ID)
-- Neha Singh: MiuChan24 (github), neha.229310161@muj.manipal.edu (mail ID)
+- Neha Singh: MiuChan24 (github), noctis24x@gmail.com (mail ID)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).

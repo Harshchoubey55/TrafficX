@@ -1,6 +1,3 @@
-Certainly! Here's a README file for your Git project based on the provided code snippets:
-
----
 
 # Traffic Monitoring System
 

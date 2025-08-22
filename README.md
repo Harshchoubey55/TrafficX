@@ -49,6 +49,9 @@ pip install numpy
 - Navigate to each module's directory and execute the respective Python script.
 - Ensure the video path (`video.mp4` or `input.mp4`) is correctly set in each script before running.
 
+## Collaborators:
+- Sagnik Gangopadhyay: HawkCodeZ (github), amayamix24@gmail.com (mail ID)
+- Neha Singh: MiuChan24 (github), neha.229310161@muj.manipal.edu (mail ID)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
